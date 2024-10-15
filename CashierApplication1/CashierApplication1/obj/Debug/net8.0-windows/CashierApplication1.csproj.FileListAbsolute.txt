@@ -1,0 +1,17 @@
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\bin\Debug\net8.0-windows\CashierApplication1.exe
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\bin\Debug\net8.0-windows\CashierApplication1.deps.json
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\bin\Debug\net8.0-windows\CashierApplication1.runtimeconfig.json
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\bin\Debug\net8.0-windows\CashierApplication1.dll
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\bin\Debug\net8.0-windows\CashierApplication1.pdb
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.frmPurchaseDiscountedItem.resources
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.csproj.GenerateResource.cache
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.AssemblyInfoInputs.cache
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.AssemblyInfo.cs
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.dll
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\refint\CashierApplication1.dll
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.pdb
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.genruntimeconfig.cache
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\ref\CashierApplication1.dll
+C:\Users\Harvey Mellomida\source\repos\CashierApplication1\CashierApplication1\obj\Debug\net8.0-windows\CashierApplication1.frmLoginAccount.resources
